@@ -43,6 +43,7 @@ public class AleatorioEmple {
 			System.out.println(" ------------------------------------------");
 		} else 
 			System.out.println(" ---------FICHERO VACÍO --------------------");
+		System.out.println("commit 2");
 	}// fin verporconsola
 
 	public static void crear() throws IOException {
